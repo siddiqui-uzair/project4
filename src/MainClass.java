@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class MainClass
 {
+	//DO NOT CHANGE THE REFERENCE TYPE IN THE LINE BELOW!
 	private static ArrayList<BagItemSuperclass> items = new ArrayList<BagItemSuperclass>();
 	
 	public static void main(String[] args)
