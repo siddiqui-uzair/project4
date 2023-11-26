@@ -1,4 +1,4 @@
-public abstract class BagItemSuperclass
+public abstract class BagItemSuperclass 
 {
 	BagItemSuperclass()
 	{
