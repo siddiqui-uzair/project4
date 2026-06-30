@@ -52,6 +52,14 @@ src/
 - Clear all items = Win
 - Strategic risk/reward decisions
 
+## Skills Demonstrated
+
+- Polymorphism & inheritance
+- ArrayList collection management
+- Game state management
+- Probability-based logic
+
+
 ## Difficulty Levels
 
 - **Easy:** Higher bust limit, fewer risky items
