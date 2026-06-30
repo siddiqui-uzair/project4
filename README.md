@@ -65,3 +65,6 @@ src/
 - **Easy:** Higher bust limit, fewer risky items
 - **Medium:** Balanced gameplay
 - **Hard:** Lower bust limit, more challenging
+
+Academic Project
+This project was developed as part of my BSc Computer Science (Artificial Intelligence) coursework at Heriot-Watt University Dubai. It is shared for portfolio and educational purposes.
